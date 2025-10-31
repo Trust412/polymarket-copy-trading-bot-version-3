@@ -198,7 +198,7 @@ pm2 stop polymarket-bot
    - Choose the location carefully as many of locations are banned from polymarket.
 
    ***Choose your vps carefully!***
-   I highly recommend [tradingvps.io](https://tradingvps.io)(German IP), ping speed was under 1ms.
+   I highly recommend [tradingvps.io](https://tradingvps.io) (German IP), ping speed was under 1ms.
    <img width="506" height="310" alt="image" src="https://github.com/user-attachments/assets/d824fb72-9cf4-4eb2-8863-617fdf1209ea" />
    <img width="516" height="330" alt="image" src="https://github.com/user-attachments/assets/e86a756a-1ce8-4b00-a2ea-76a9c1b38105" />
 
