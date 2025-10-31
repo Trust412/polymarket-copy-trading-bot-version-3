@@ -197,6 +197,13 @@ pm2 stop polymarket-bot
    - Minimum: 1GB RAM, 1 CPU core
    - Choose the location carefully as many of locations are banned from polymarket.
 
+   ***Choose your vps carefully!***
+   I highly recommend tradingvps.io(German IP), ping speed was under 1ms.
+   <img width="506" height="310" alt="image" src="https://github.com/user-attachments/assets/d824fb72-9cf4-4eb2-8863-617fdf1209ea" />
+   ![Uploading image.png…]()
+
+
+
 2. **Server Setup**
    ```bash
    # Update system
